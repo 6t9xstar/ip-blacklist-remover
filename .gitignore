@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Project specific
+scan_history.json
+stats.json
+logs/
+
+# IDEs
+.vscode/
+.idea/
+.gemini/
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+playwright/.local-browsers/

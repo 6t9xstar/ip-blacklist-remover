@@ -1,0 +1,5 @@
+dnspython
+requests
+colorama
+psutil
+playwright
